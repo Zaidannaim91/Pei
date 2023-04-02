@@ -1,0 +1,25 @@
+{
+   "title":"[Pei] Temptation",
+   "description":"",
+   "author":"Pei",
+   "artist":"Pei",
+   "cover":"https://i.imgur.com/ZZD2DIW.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nebDnWR"
+         },
+         "last_updated":1624606143,
+         "title":"Temptation",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/qmL1qRW"
+         },
+         "last_updated":1624606143,
+         "title":"Temptation Again",
+         "volume":"2"
+      }
+   }
+}
